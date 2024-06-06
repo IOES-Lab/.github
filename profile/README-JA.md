@@ -5,3 +5,4 @@ IOES[イオス; 知能型海洋工学システム研究室] へようこそ。�
 For more : 🚀 🌐 https://lab.wschoi.com
 
 <img width="1001" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/cc400b42-1e6b-4d9d-b888-fb10d3c2f9e0">
+<img width="1088" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/2a22d3bb-7824-4e0c-83d9-ee7206276208">
