@@ -5,3 +5,4 @@ IOES is where the future of marine technology and innovation unfolds. Our team i
 For more : 🚀 🌐 https://lab.wschoi.com
 
 <img width="1001" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/cc400b42-1e6b-4d9d-b888-fb10d3c2f9e0">
+<img width="1066" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/6f35e40b-45ac-47da-a020-3b33e9897b87">
