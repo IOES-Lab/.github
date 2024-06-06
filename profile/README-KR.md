@@ -5,3 +5,5 @@ IOES [이오스; 지능형해양공학시스템연구실] 에 오신 것을 환�
 For more : 🚀 🌐 https://lab.wschoi.com
 
 <img width="1001" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/cc400b42-1e6b-4d9d-b888-fb10d3c2f9e0">
+<img width="1070" alt="image" src="https://github.com/IOES-Lab/.github/assets/7955120/594235fa-2549-48c3-9fbe-d22298030553">
+
